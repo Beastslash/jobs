@@ -1,3 +1,4 @@
 # Beastslash jobs
-## Projects
-* [DemoDemons](https://github.com/Beastslash/jobs/labels/%F0%9F%92%A3%20DemoDemons)
+## Quick links
+* [View all project lists](https://github.com/Beastslash/jobs/projects)
+* [View all jobs in Beastslash](https://github.com/Beastslash/jobs/issues)
